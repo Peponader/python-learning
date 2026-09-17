@@ -15,3 +15,4 @@ salary = int(input("Enter your salary: "))
 result = check_salary(salary)
 
 print(result)
+# test change for git update
